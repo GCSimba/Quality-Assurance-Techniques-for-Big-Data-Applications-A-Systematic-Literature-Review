@@ -23,4 +23,4 @@ Data management tool(NoteExpress)
 We use NoteExpress to do data management. NoteExpress has the function of document information retrieval and download, which can be used to manage the bibliographies of references, and to manage the full text of references or documents in any format by attachments. Data mining can help users quickly understand the latest progress in a research direction, views and so on. In addition to managing the above explicit knowledge, instantaneous tacit knowledge such as diaries, scientific research experiences, and draft papers can also be recorded through NoteExpress's note-taking function, and can be linked to bibliographic titles. 
 
 
-Our achievements have been put on arXiv. If you want to get more information about this article, please click https://arxiv.org/pdf/2002.01759
+Our achievements have been put on arXiv for free. If you want to get more information about this article, please visit https://arxiv.org/pdf/2002.01759
